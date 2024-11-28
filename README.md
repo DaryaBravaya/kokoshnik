@@ -1,3 +1,3 @@
 # kokoshnik
 Приложение Kokoshnik
-Wow project kokosha
+git add README.md
